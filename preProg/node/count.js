@@ -19,4 +19,3 @@ function count(values, cut) {
     return counter
 }
 
-export default count
